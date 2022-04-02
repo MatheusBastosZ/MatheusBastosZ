@@ -2,7 +2,6 @@
 
 - 💻 Aprendendo a programar
 - 📘 Estudando HTMl
-- 😄 Ele/dele
 
 <div align="center">
   <a href="https://github.com/MatheusBastosZ">
