@@ -1,7 +1,7 @@
   ### Olá! Eu sou o Matheus Bastos.
 
 - 💻 Aprendendo a programar
-- 📘 Estudando HTMl
+- 📘 Estudando CSS
 
 <div align="center">
   <a href="https://github.com/MatheusBastosZ">
