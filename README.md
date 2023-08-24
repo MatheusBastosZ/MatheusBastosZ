@@ -1,7 +1,8 @@
   ### Olá! Eu sou o Matheus Bastos.
 
-- 💻 Aprendendo a programar
-- 📘 Estudando CSS
+- 💻 Aprendendo a programar/4° semestre
+- 📘 Linguagens C++/Java
+
 
 <div align="center">
   <a href="https://github.com/MatheusBastosZ">
