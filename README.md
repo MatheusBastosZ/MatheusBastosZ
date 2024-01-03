@@ -1,6 +1,6 @@
   ### Olá! Eu sou o Matheus Bastos.
 
-- 💻 Aprendendo a programar/4° semestre
+- 💻 Aprendendo a programar/5° semestre
 - 📘 Linguagens C++/Java
 
 
