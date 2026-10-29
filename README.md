@@ -8,7 +8,7 @@ Brasília, DF — Brasil
 
 Construo aplicações web e mobile para transformar processos do dia a dia em soluções práticas.
 
-[LinkedIn](https://www.linkedin.com/in/matheus-bastos-44b802191/) · [E-mail](mailto:bastosmatheus017@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matheusti/) · [bastosmatheus017@gmail.com](mailto:bastosmatheus017@gmail.com)
 
 </div>
 
@@ -50,4 +50,4 @@ Projetos em que venho trabalhando, com diferentes etapas de desenvolvimento e ev
 
 Tenho interesse em projetos que aproximem **software, dados e necessidades reais de negócio**.
 
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/matheus-bastos-44b802191/) ou pelo [e-mail](mailto:bastosmatheus017@gmail.com).
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/matheusti/) ou pelo [bastosmatheus017@gmail.com](mailto:bastosmatheus017@gmail.com).
