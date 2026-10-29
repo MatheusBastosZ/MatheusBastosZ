@@ -1,25 +1,53 @@
-  ### Olá! Eu sou o Matheus Bastos.
-
-- 💻 Aprendendo a programar/5° semestre
-- 📘 Linguagens C++/Java
-
-
 <div align="center">
-  <a href="https://github.com/MatheusBastosZ">
-  <img height="154em" src="https://github-readme-stats.vercel.app/api?username=MatheusBastosZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </div>
-  
-  ##
-  
-<div>
-  <a href="https://instagram.com/_matheus.bastos_?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/uwvmVt3hA2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bastosmatheus017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/matheus-bastos-44b802191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/MatheusBastosZ/MatheusBastosZ/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
+# Matheus Bastos
+
+**Desenvolvimento de software · Dados · Estratégia comercial**
+
+Brasília, DF — Brasil
+
+Construo aplicações web e mobile para transformar processos do dia a dia em soluções práticas.
+
+[LinkedIn](https://www.linkedin.com/in/matheus-bastos-44b802191/) · [E-mail](mailto:bastosmatheus017@gmail.com)
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor e Analista Comercial na Kari-Kari Alimentos. Minha atuação conecta tecnologia e visão de negócio: entender a operação, organizar informações e desenvolver ferramentas que ajudem equipes a trabalhar melhor.
+
+Trabalho com aplicações web e mobile, APIs, bancos de dados e implantação de sistemas. Também desenvolvo projetos pela **MB CORE Tecnologia**, com foco em desenvolvimento, suporte e implantação.
+
+- **Desenvolvimento:** sistemas de gestão, APIs REST e aplicativos com operação offline e sincronização.
+- **Dados e negócio:** indicadores, análise comercial e acompanhamento de resultados.
+- **Infraestrutura:** implantação em VPS, containers e armazenamento de arquivos.
+- **Interesses:** segurança da informação, automação e melhoria de processos.
+
+## Tecnologias que utilizo
+
+| Área | Tecnologias |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, JPA / Hibernate |
+| Web | JavaScript, React, Vite, HTML e CSS |
+| Mobile | React Native, Expo |
+| Dados | MySQL, SQL, Flyway |
+| Infraestrutura e ferramentas | Docker, Nginx, Linux, Git e GitHub |
+
+## Projetos
+
+Projetos em que venho trabalhando, com diferentes etapas de desenvolvimento e evolução:
+
+| Projeto | Foco |
+| --- | --- |
+| **PromovaX** | Gestão de promotores e operações em campo, com roteiros, check-in e check-out, registros fotográficos e sincronização offline. |
+| **ComprovaX** | Gestão de notas e comprovantes, com foco em captura mobile, organização de despesas e aprovação financeira. |
+| **KPI System** | Indicadores comerciais e financeiros, dashboards e exportação de apresentações para acompanhamento de resultados. |
+| **Torkio** | Sistema para oficinas mecânicas, com foco em ordens de serviço, peças, mão de obra e acompanhamento financeiro. |
+
+## Vamos conversar?
+
+Tenho interesse em projetos que aproximem **software, dados e necessidades reais de negócio**.
+
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/matheus-bastos-44b802191/) ou pelo [e-mail](mailto:bastosmatheus017@gmail.com).
